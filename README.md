@@ -15,14 +15,9 @@ Project Scope
 Modeling Assumptions
 
 * Forecast horizon: 12 months
-* Fixed subscription price: $29.99/month
+* Fixed subscription price
 * Revenue depends entirely on subscription renewals and retention behavior
 
 Cohort Analysis
 
-The project includes comparative analysis of user cohorts, including:
-
-* Users who started subscriptions in January 2024
-* Users who started subscriptions in December 2024
-
-with the goal of identifying differences in retention and projected customer value.
+The project includes comparative analysis of user cohorts with the goal of identifying differences in retention and projected customer value.
